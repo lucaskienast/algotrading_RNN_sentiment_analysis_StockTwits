@@ -5,7 +5,7 @@ In this project, a deep learning modelw as built to classify the sentiment of me
 Use `git clone` to get a copy of this repository.
 ```
 $ git clone https://github.com/lucaskienast/algotrading_RNN_sentiment_analysis_StockTwits.git
-$ cd algotrading_random_forest_enhanced_alpha
+$ cd algotrading_RNN_sentiment_analysis_StockTwits
 ```
 
 ## Method
